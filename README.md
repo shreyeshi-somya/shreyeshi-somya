@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### Hi I am Shreyeshi. Username shreyeshi-somya. I am an experienced Analytics/DS Professional, looking for the best roles in US. 
+#### Hi I am Shreyeshi. I am an experienced Analytics/DS Professional, looking for the best roles in US. 
 
 - :mortar_board: I just gradauted from University of California, Los Angeles with a Masters in Business Analytics
 - 🔭 I’m currently working on my github profile. :laughing:
