@@ -3,8 +3,8 @@
 
 #### I am Shreyeshi. - currently working in Enterprise Analytics at Peloton 🚴.
 
-🎓 MS in Business Analytics from UCLA | BS in Computer Science from VIT, Vellore  
-💼 Building data science projects and sharing them here
+🎓 Masters in Business Analytics from UCLA | Bachelors in Computer Science from VIT, Vellore  
+💼 Building analytics and data science projects and sharing them here
 
 ## 🚀 Recent Project
 
