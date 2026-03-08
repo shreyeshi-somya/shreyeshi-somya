@@ -12,12 +12,12 @@ Just wrapped up an **End-to-End Analytics Pipeline** — a 4-phase project on re
 
 ## 🛠️ Technical Skills
 
-**Programming:** SQL, Python, R
-**Data Pipelines & Warehousing:** dbt, ETL/ELT, Redshift, BigQuery, Snowflake, DuckDB, Airflow
-**ML & Data Science:** Scikit-learn, XGBoost, LightGBM, K-Means Clustering, SHAP, Feature Engineering
-**NLP & AI:** Anthropic Claude API, VADER, TF-IDF, Word2Vec, GloVe, LSTM, Sentiment Analysis
-**Visualization & Dashboards:** Looker, Tableau, Streamlit, Plotly, Matplotlib, Seaborn, Excel
-**Analytics:** Regression, Time Series, Classification, A/B Testing
+**Programming:** SQL, Python, R  
+**Data Pipelines & Warehousing:** dbt, ETL/ELT, Redshift, BigQuery, Snowflake, DuckDB, Airflow  
+**ML & Data Science:** Scikit-learn, XGBoost, LightGBM, K-Means Clustering, SHAP, Feature Engineering  
+**NLP & AI:** Anthropic Claude API, VADER, TF-IDF, Word2Vec, GloVe, LSTM, Sentiment Analysis  
+**Visualization & Dashboards:** Looker, Tableau, Streamlit, Plotly, Matplotlib, Seaborn, Excel  
+**Analytics:** Regression, Time Series, Classification, A/B Testing  
 **Tools:** Git/GitHub, Docker, Jira, Confluence, Amplitude, VS Code, Jupyter
 
 ## 📫 Let's connect
