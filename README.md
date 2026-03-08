@@ -8,15 +8,17 @@
 
 ## 🚀 Recent Project
 
-Just wrapped up a **Customer Churn Prediction Dashboard** - built an end-to-end ML pipeline that predicts telecom churn with 4 different models, deployed as an interactive Streamlit app with AI-generated insights. Check it out: [Live Demo](https://churn-prediction-dashboard-ujetpgon5n2lulk6fmmhwg.streamlit.app/) | [Code](https://github.com/shreyeshi-somya/churn-prediction-dashboard)
+Just wrapped up an **End-to-End Analytics Pipeline** — a 4-phase project on real-world e-commerce data covering dbt transformations (DuckDB + Snowflake), Tableau dashboards, ML (K-Means clustering, XGBoost delivery prediction), and Applied AI (Claude-powered translation, sentiment analysis, and a Streamlit app with NL-to-SQL querying). [Code](https://github.com/shreyeshi-somya/analytics-pipeline)
 
 ## 🛠️ Technical Skills
 
-**Programming:** SQL, Python, R  
-**Data Pipelines & Warehousing:** dbt, ETL/ELT, Redshift, BigQuery, Snowflake, Airflow  
-**Visualization & Dashboards:** Looker, Tableau, Streamlit, Plotly, Matplotlib, Seaborn, Excel  
-**Analytics:** Regression, Time Series, Classification, A/B Testing  
-**Tools:** Git/GitHub, Jira, Confluence, Amplitude, VS Code, Jupyter
+**Programming:** SQL, Python, R
+**Data Pipelines & Warehousing:** dbt, ETL/ELT, Redshift, BigQuery, Snowflake, DuckDB, Airflow
+**ML & Data Science:** Scikit-learn, XGBoost, LightGBM, K-Means Clustering, SHAP, Feature Engineering
+**NLP & AI:** Anthropic Claude API, VADER, TF-IDF, Word2Vec, GloVe, LSTM, Sentiment Analysis
+**Visualization & Dashboards:** Looker, Tableau, Streamlit, Plotly, Matplotlib, Seaborn, Excel
+**Analytics:** Regression, Time Series, Classification, A/B Testing
+**Tools:** Git/GitHub, Docker, Jira, Confluence, Amplitude, VS Code, Jupyter
 
 ## 📫 Let's connect
 
