@@ -6,9 +6,11 @@
 🎓 Masters in Business Analytics from UCLA | Bachelors in Computer Science from VIT, Vellore  
 💼 Building analytics and data science projects and sharing them here
 
-## 🚀 Recent Project
+## 🚀 Projects
 
-Just wrapped up an **End-to-End Analytics Pipeline** — a 4-phase project on real-world e-commerce data covering dbt transformations (DuckDB + Snowflake), Tableau dashboards, ML (K-Means clustering, XGBoost delivery prediction), and Applied AI (Claude-powered translation, sentiment analysis, and a Streamlit app with NL-to-SQL querying). [Code](https://github.com/shreyeshi-somya/analytics-pipeline)
+- **End-to-End Analytics Pipeline** — a 4-phase project on real-world e-commerce data covering dbt transformations (DuckDB + Snowflake), Tableau dashboards, ML (K-Means clustering, XGBoost delivery prediction), and Applied AI (Claude-powered translation, sentiment analysis, and a Streamlit app with NL-to-SQL querying). [Code](https://github.com/shreyeshi-somya/analytics-pipeline)
+
+- **Project Tracker** — a desktop app for capturing ideas, generating project plans with Claude AI, and tracking them through customizable workflow stages. Built with React, Electron, and the Anthropic API. [Code](https://github.com/shreyeshi-somya/project-tracker)
 
 ## 🛠️ Technical Skills
 
