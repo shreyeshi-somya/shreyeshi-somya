@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### I am Shreyeshi. - currently working in Enterprise Analytics at Peloton 🚴.
+#### I am Shreyeshi. - currently working in Analytics at Hims & Hers.
 
 🎓 Masters in Business Analytics from UCLA | Bachelors in Computer Science from VIT, Vellore  
 💼 Building analytics and data science projects and sharing them here
